@@ -76,4 +76,4 @@ Empuja tu rama al repositorio forked en GitHub y luego ve a la página del repos
 git push origin mi_nueva_rama
 ```
 
-¡Listo! Se a enviado un pull request al repositorio original.
+¡Listo! Se a enviado un pull request al repositorio original. Aprendiendo hacer un pull request ^^
